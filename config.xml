@@ -12,5 +12,5 @@
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
 
-	<gap:plugin name="org.apache.cordova.device-motion" />
+	<cdv:plugin name="org.apache.cordova.device-motion" />
 </widget>
